@@ -29,4 +29,4 @@ The model takes 7-bit noisy received codewords and predicts the original 4-bit m
 The model predicts the original 4-bit message from noisy inputs and improves decoding accuracy.
 
 ## Author
-Your Name
+Priyanwada Athukorala
